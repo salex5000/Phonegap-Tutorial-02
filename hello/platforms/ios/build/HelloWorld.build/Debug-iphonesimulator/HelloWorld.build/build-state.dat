@@ -1,0 +1,1319 @@
+THelloWorld
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+cCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+cCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+cCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+cCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+cCopyStringsFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.xib
+cCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+cCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+cCopyStringsFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+cCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+cCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+cCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+cCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+cCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+cCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+cCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+cCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+cCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+cProcessPCH /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+cGenerateDSYMFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+cTouch /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000535615F200000000000003B4
+t1398150642
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531149D9000000000000019E
+t1393641945
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000535615F80000000000484210
+t1398150648
+s4735504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000535615F80000000000098030
+t1398150648
+s622640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000535615F8000000000019D2D0
+t1398150648
+s1692368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000535615F80000000000505040
+t1398150648
+s5263424
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000535615F80000000000059340
+t1398150648
+s365376
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000535615F900000000005B82F0
+t1398150649
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000535615F90000000000446820
+t1398150649
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000535615F900000000000F1A80
+t1398150649
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000535615F9000000000013B8C0
+t1398150649
+s1292480
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000535615FA000000000088D8C0
+t1398150650
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000535615FB00000000001BE790
+t1398150651
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000535615FD0000000001F1DE10
+t1398150653
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005356160700000000002BC360
+t1398150663
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c000000005356160C0000000000002338
+t1398150668
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c000000005356160C000000000008D370
+t1398150668
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c000000005356160C0000000000392E20
+t1398150668
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000531BB24600000000000141F0
+t1394324038
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c000000005356160C0000000000014A80
+t1398150668
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005356160C0000000000033BA0
+t1398150668
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005356160C000000000001CFB0
+t1398150668
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005356160C000000000001B2B0
+t1398150668
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c000000005356160D00000000000C9570
+t1398150669
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c000000005356160C0000000000063280
+t1398150668
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005356160C0000000000008880
+t1398150668
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005356160C0000000000015080
+t1398150668
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005356160C00000000000230F0
+t1398150668
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005356160C000000000000E380
+t1398150668
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c000000005356160D0000000000089380
+t1398150669
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c000000005356160C0000000000017320
+t1398150668
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005356160D0000000000039CD0
+t1398150669
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005356160C000000000000B0B0
+t1398150668
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005356160D0000000000167E80
+t1398150669
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005356160D00000000000106A0
+t1398150669
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005356160D000000000001CE40
+t1398150669
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005356160D00000000000740C0
+t1398150669
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005356160D000000000006CA60
+t1398150669
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005356160D000000000001BAD0
+t1398150669
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c000000005356160D0000000000084A20
+t1398150669
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+c0000000053561640000000000000BB48
+t1398150720
+s47944
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053561640000000000000514C
+t1398150720
+s20812
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.h
+c00000000535CB17F00000000000005B9
+t1398583679
+s1465
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m
+c00000000535CB17F00000000000013AB
+t1398583679
+s5035
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.h
+c00000000535CB17F00000000000004D0
+t1398583679
+s1232
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.m
+c00000000535CB17F000000000000126B
+t1398583679
+s4715
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.xib
+c00000000535CB17F0000000000001759
+t1398583679
+s5977
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist
+c00000000535CC32C0000000000000A13
+t1398588204
+s2579
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+c00000000535CB17F00000000000003C5
+t1398583679
+s965
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.h
+c00000000535CBEF60000000000001640
+t1398587126
+s5696
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m
+c00000000535CBEF600000000000137CC
+t1398587126
+s79820
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.h
+c00000000535CBEF600000000000014F9
+t1398587126
+s5369
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m
+c00000000535CBEF60000000000006A84
+t1398587126
+s27268
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.h
+c00000000535CB439000000000000044D
+t1398584377
+s1101
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m
+c00000000535CB4390000000000002666
+t1398584377
+s9830
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings
+c00000000535CB17F00000000000004C0
+t1398583679
+s1216
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings
+c00000000535CB17F00000000000004AB
+t1398583679
+s1195
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-40.png
+c00000000535CB17F0000000000000FF2
+t1398583679
+s4082
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png
+c00000000535CB17F0000000000001CF3
+t1398583679
+s7411
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-50.png
+c00000000535CB17F000000000000130A
+t1398583679
+s4874
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png
+c00000000535CB17F000000000000258B
+t1398583679
+s9611
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-60.png
+c00000000535CB17F00000000000016B3
+t1398583679
+s5811
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png
+c00000000535CB17F0000000000002E94
+t1398583679
+s11924
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-72.png
+c00000000535CB17F0000000000001350
+t1398583679
+s4944
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png
+c00000000535CB17F0000000000002DBA
+t1398583679
+s11706
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-76.png
+c00000000535CB17F0000000000001B71
+t1398583679
+s7025
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png
+c00000000535CB17F0000000000003B9E
+t1398583679
+s15262
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-small.png
+c00000000535CB17F0000000000000CDE
+t1398583679
+s3294
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png
+c00000000535CB17F00000000000015E8
+t1398583679
+s5608
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon.png
+c00000000535CB17F0000000000000F3E
+t1398583679
+s3902
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/icons/icon@2x.png
+c00000000535CB17F0000000000001EBD
+t1398583679
+s7869
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png
+c00000000535CB17F00000000000085B1
+t1398583679
+s34225
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+c00000000535CB17F0000000000033D0A
+t1398583679
+s212234
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png
+c00000000535CB17F00000000000166A2
+t1398583679
+s91810
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+c00000000535CB17F0000000000033F7C
+t1398583679
+s212860
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png
+c00000000535CB17F0000000000016641
+t1398583679
+s91713
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png
+c00000000535CB17F0000000000007323
+t1398583679
+s29475
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png
+c00000000535CB17F000000000000289A
+t1398583679
+s10394
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/main.m
+c00000000535CB17F000000000000045C
+t1398583679
+s1116
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+t1398583687
+s74028
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o
+t1398587147
+s141756
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o
+t1398587147
+s122804
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o
+t1398584404
+s74108
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+c00000000535CBF0900000000000003D5
+t1398587145
+s981
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+t1398583687
+s50840
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+t1398583687
+s3020
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+c00000000535CB184000000000000002D
+t1398583684
+s45
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app
+t1398588205
+s1020
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM
+t1398588170
+s102
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+t1398583684
+s34225
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+t1398583684
+s212234
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+t1398583684
+s91810
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+t1398583684
+s212860
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+t1398583684
+s91713
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png
+t1398583684
+s29475
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png
+t1398583684
+s10394
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+t1398587148
+s426424
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+t1398588205
+s1287
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib
+t1398583687
+s1332
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/PkgInfo
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+t1398583684
+s280
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+t1398583684
+s166
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-40.png
+t1398583684
+s4082
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png
+t1398583684
+s7411
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-50.png
+t1398583684
+s4874
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png
+t1398583684
+s9611
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-60.png
+t1398583684
+s5811
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png
+t1398583684
+s11924
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-72.png
+t1398583684
+s4944
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png
+t1398583684
+s11706
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-76.png
+t1398583684
+s7025
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png
+t1398583684
+s15262
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-small.png
+t1398583684
+s3294
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png
+t1398583684
+s5608
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon.png
+t1398583684
+s3902
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png
+t1398583684
+s7869
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+c00000000535CB1820000000000000CDD
+t1398583682
+s3293
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+c00000000535CB18200000000000008BA
+t1398583682
+s2234
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+c00000000535CB18200000000000004B5
+t1398583682
+s1205
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+c00000000535CB1820000000000000503
+t1398583682
+s1283
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+c00000000535CB18200000000000007E6
+t1398583682
+s2022
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+c00000000535CB1820000000000000892
+t1398583682
+s2194
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+c00000000535CB1820000000000000C13
+t1398583682
+s3091
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000535CB1820000000000000408
+t1398583682
+s1032
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+c00000000535CB1820000000000000ACC
+t1398583682
+s2764
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+c00000000535CB18200000000000004B4
+t1398583682
+s1204
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+c00000000535CB1820000000000000392
+t1398583682
+s914
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+c00000000535CB18200000000000005DA
+t1398583682
+s1498
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+c00000000535CB18200000000000003A0
+t1398583682
+s928
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/libCordova.a
+c00000000535CB18400000000000D2DF0
+t1398583684
+s863728
+
+N/usr/lib/libSystem.B.dylib
+c000000005272C951000000000000E6D0
+t1383254353
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005272C95D0000000000012A00
+t1383254365
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005272C946000000000002E320
+t1383254342
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005272C9510000000000021860
+t1383254353
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005272C95D000000000001B620
+t1383254365
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005272C95D00000000000BD920
+t1383254365
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005272C95D000000000000A120
+t1383254365
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000531BB246000000000001D550
+t1394324038
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005272C95D0000000000014EE0
+t1383254365
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005272C95F0000000000010380
+t1383254367
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005272C95F000000000000C4C0
+t1383254367
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005272C95D00000000000357A0
+t1383254365
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005272C95D000000000000C070
+t1383254365
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000531BB2460000000000010630
+t1394324038
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000531BB246000000000001DF10
+t1394324038
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005272C9510000000000075B00
+t1383254353
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005358D560000000000007CC70
+t1398330720
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005272C95100000000000766C0
+t1383254353
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005272C9510000000000021FA0
+t1383254353
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000531BB246000000000002D920
+t1394324038
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005272C95E000000000001E570
+t1383254366
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000531BB246000000000000CC70
+t1394324038
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005272C959000000000000C3F0
+t1383254361
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005272C95E00000000000199F0
+t1383254366
+s104944
+
+N/var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch
+t1398583687
+s5374296
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies02ba7fadfa0cb941^59e07fadfa0cb941^---0#1#1#--18"Check dependencies36"19F07A02-6085-4F84-A738-EF762E8B5DCB-
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276487.240069
+e420276487.283583
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m221"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler018a3d07e90cb941^9e994807e90cb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m0000000000000000^4085"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o [1mHelloWorld/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/UninstalledProducts/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o36"30B507B5-A97D-4AE2-9C0A-203C76113322-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420279945.686583
+e420279947.900829
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m247"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o [1mHelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere4d7af89f60cb941^419de68bf60cb941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m0000000000000000^4135"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o [1mHelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/UninstalledProducts/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o36"A9893C39-33EA-4593-AB1B-64BB0C42AEF3-
+b2758054E-3DC2-4DF3-8515-0E2AE55FFBB6
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420279945.686418
+e420279947.867098
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContact.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m249"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o [1mHelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler96ceaf89f60cb941^fdfadd8bf60cb941^---0#0#1#-19%DVTDocumentLocation2@138"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m0000000000000000^4141"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o [1mHelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/UninstalledProducts/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.contacts/CDVContacts.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o36"62E6D31C-F19A-4072-A8A0-A93DE8D7A582-
+b2758054E-3DC2-4DF3-8515-0E2AE55FFBB6
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420277204.258608
+e420277204.439075
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m261"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o [1mHelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1f4842d4eb0cb941^1f6970d4eb0cb941^---0#0#1#-19%DVTDocumentLocation2@146"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m0000000000000000^4173"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o [1mHelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/UninstalledProducts/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Plugins/org.apache.cordova.splashscreen/CDVSplashScreen.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o36"14142EE5-D24C-4FC1-B2FB-46AF13FE2206-
+b03FA952C-394C-4F68-9F2F-8CBCF81C054D
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276487.240260
+e420276487.276915
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.m235"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerab953d07e90cb941^d2e44607e90cb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Classes/MainViewController.m0000000000000000^4127"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o [1mHelloWorld/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/UninstalledProducts/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o36"FB8A5AFF-6F53-4F10-A5FC-30AFE10C0DA8-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276487.239853
+e420276487.255471
+r1
+xCompileC
+xbuild/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/main.m199"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercc7a3d07e90cb941^66674107e90cb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/main.m0000000000000000^4027"[1mCompileC[0m build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o [1mHelloWorld/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/UninstalledProducts/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/main.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o36"1F190FF3-0D2B-4810-B3AA-8A2DDCDFC956-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCompileXIB /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.xib
+s420276484.270601
+e420276487.048476
+r1
+xCompileXIB
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compiling /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.xib68"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m33544504e90cb941^ba680c07e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Classes/MainViewController.xib0000000000000000^893"[1mCompileXIB[0m [1mHelloWorld/Classes/MainViewController.xib[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/MainViewController.xib36"7F453ADB-9C93-4767-81E3-DF58A1D190E6-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCopyStringsFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings
+s420276484.271770
+e420276484.304882
+r1
+xCopyStringsFile
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/de.lproj/Localizable.strings
+xHelloWorld/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/de.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.stringscfa44504e90cb941^1f0e4e04e90cb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Resources/de.lproj/Localizable.strings0000000000000000^670"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/de.lproj/Localizable.strings HelloWorld/Resources/de.lproj/Localizable.strings    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/de.lproj -- HelloWorld/Resources/de.lproj/Localizable.strings36"00D708BD-D483-472F-A52E-AF47EBF49FB7-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCopyStringsFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings
+s420276484.270207
+e420276484.280342
+r1
+xCopyStringsFile
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/en.lproj/Localizable.strings
+xHelloWorld/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy HelloWorld/Resources/en.lproj/Localizable.strings132"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings74414504e90cb941^acc54704e90cb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/Resources/en.lproj/Localizable.strings0000000000000000^670"[1mCopyStringsFile[0m build/emulator/HelloWorld.app/en.lproj/Localizable.strings HelloWorld/Resources/en.lproj/Localizable.strings    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/en.lproj -- HelloWorld/Resources/en.lproj/Localizable.strings36"68E4477A-4F0D-4BA2-9630-86F0F6CDFB60-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png
+s420276484.276756
+e420276484.277254
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40.png
+xbuild/emulator/HelloWorld.app/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-40.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.pnga8e24604e90cb941^c2fb4604e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-40.png0034d4c8ddffdf42^705"[1mCpResource[0m HelloWorld/Resources/icons/icon-40.png build/emulator/HelloWorld.app/icon-40.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-40.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"8F37618B-D8C0-4C82-BEFE-28D5205DCCDD-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png
+s420276484.268665
+e420276484.269739
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-40@2x.png
+xbuild/emulator/HelloWorld.app/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-40@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png45d44404e90cb941^ba124504e90cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png0034d4c8ddffdf42^714"[1mCpResource[0m HelloWorld/Resources/icons/icon-40@2x.png build/emulator/HelloWorld.app/icon-40@2x.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-40@2x.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"B95A865A-C48C-4224-B253-46286F52D67E-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png
+s420276484.270617
+e420276484.271501
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50.png
+xbuild/emulator/HelloWorld.app/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-50.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.pngef534504e90cb941^f9834504e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-50.png0034d4c8ddffdf42^705"[1mCpResource[0m HelloWorld/Resources/icons/icon-50.png build/emulator/HelloWorld.app/icon-50.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-50.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"4D92B3AD-0453-4671-8FD1-106D79565020-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png
+s420276484.280278
+e420276484.280966
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-50@2x.png
+xbuild/emulator/HelloWorld.app/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-50@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png29cc4704e90cb941^80ee4704e90cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png0034d4c8ddffdf42^714"[1mCpResource[0m HelloWorld/Resources/icons/icon-50@2x.png build/emulator/HelloWorld.app/icon-50@2x.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-50@2x.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"BEA68C38-F480-45BA-A5D3-74854414D1B5-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png
+s420276484.278011
+e420276484.278673
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60.png
+xbuild/emulator/HelloWorld.app/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-60.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.pngc2354704e90cb941^36594704e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-60.png0034d4c8ddffdf42^705"[1mCpResource[0m HelloWorld/Resources/icons/icon-60.png build/emulator/HelloWorld.app/icon-60.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-60.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"2388B1F3-992A-44A8-9D50-F56E1ACBD3A8-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png
+s420276484.271303
+e420276484.271908
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-60@2x.png
+xbuild/emulator/HelloWorld.app/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-60@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png7c7d4504e90cb941^f69b4504e90cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-60@2x.png0034d4c8ddffdf42^714"[1mCpResource[0m HelloWorld/Resources/icons/icon-60@2x.png build/emulator/HelloWorld.app/icon-60@2x.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-60@2x.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"69153DC6-BE14-43EF-AEFA-5AF26F4EC42A-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png
+s420276484.268837
+e420276484.270051
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72.png
+xbuild/emulator/HelloWorld.app/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-72.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png68e74404e90cb941^9e244504e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-72.png0034d4c8ddffdf42^705"[1mCpResource[0m HelloWorld/Resources/icons/icon-72.png build/emulator/HelloWorld.app/icon-72.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-72.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"EE5B91CA-10D7-4373-A8D3-F1D899B9C7E6-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png
+s420276484.281080
+e420276484.281656
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-72@2x.png
+xbuild/emulator/HelloWorld.app/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-72@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.pngeb004804e90cb941^971b4804e90cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png0034d4c8ddffdf42^714"[1mCpResource[0m HelloWorld/Resources/icons/icon-72@2x.png build/emulator/HelloWorld.app/icon-72@2x.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-72@2x.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"52845BA5-419B-4AD7-A245-38E33E847847-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png
+s420276484.268597
+e420276484.269712
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76.png
+xbuild/emulator/HelloWorld.app/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon-76.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png81ce4404e90cb941^cb0e4504e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-76.png0034d4c8ddffdf42^705"[1mCpResource[0m HelloWorld/Resources/icons/icon-76.png build/emulator/HelloWorld.app/icon-76.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-76.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"30FBC529-69A3-452B-A5F7-5C43E076D0E7-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png
+s420276484.280504
+e420276484.281268
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-76@2x.png
+xbuild/emulator/HelloWorld.app/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-76@2x.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png7bdc4704e90cb941^3a024804e90cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png0034d4c8ddffdf42^714"[1mCpResource[0m HelloWorld/Resources/icons/icon-76@2x.png build/emulator/HelloWorld.app/icon-76@2x.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-76@2x.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"9C5E1651-8703-46DA-82A2-4FBDF5B3382C-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png
+s420276484.271983
+e420276484.272935
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small.png
+xbuild/emulator/HelloWorld.app/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy build/emulator/HelloWorld.app/icon-small.png105"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png4fae4504e90cb941^a0e14504e90cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-small.png0034d4c8ddffdf42^714"[1mCpResource[0m HelloWorld/Resources/icons/icon-small.png build/emulator/HelloWorld.app/icon-small.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-small.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"B45243C5-BFA3-4F08-B7A1-6F251E4D6E84-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png
+s420276484.275439
+e420276484.275989
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon-small@2x.png
+xbuild/emulator/HelloWorld.app/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy build/emulator/HelloWorld.app/icon-small@2x.png111"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png488c4604e90cb941^eba84604e90cb941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon-small@2x.png0034d4c8ddffdf42^723"[1mCpResource[0m HelloWorld/Resources/icons/icon-small@2x.png build/emulator/HelloWorld.app/icon-small@2x.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon-small@2x.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"EEF04D72-7FFD-4E20-A33C-63E07B46956A-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png
+s420276484.269338
+e420276484.270060
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon.png
+xbuild/emulator/HelloWorld.app/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy build/emulator/HelloWorld.app/icon.png93"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.pngc5004504e90cb941^22354504e90cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon.png0034d4c8ddffdf42^696"[1mCpResource[0m HelloWorld/Resources/icons/icon.png build/emulator/HelloWorld.app/icon.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"4F451C20-31EB-41EF-A3D9-B792F641EC38-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png
+s420276484.269983
+e420276484.271048
+r1
+xCpResource
+xHelloWorld/Resources/icons/icon@2x.png
+xbuild/emulator/HelloWorld.app/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Copy build/emulator/HelloWorld.app/icon@2x.png99"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.pnge82e4504e90cb941^0f644504e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/icon@2x.png0034d4c8ddffdf42^705"[1mCpResource[0m HelloWorld/Resources/icons/icon@2x.png build/emulator/HelloWorld.app/icon@2x.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/icons/icon@2x.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"99A8FEC0-7291-4F3F-91E0-6E4EF854433E-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+s420276484.279413
+e420276484.280164
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-568h@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-568h@2x~iphone.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.pnge6954704e90cb941^34ba4704e90cb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png0034d4c8ddffdf42^752"[1mCpResource[0m HelloWorld/Resources/splash/Default-568h@2x~iphone.png build/emulator/HelloWorld.app/Default-568h@2x~iphone.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-568h@2x~iphone.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"08E0D123-2933-4B91-BFA9-BFDF78E22425-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+s420276484.273047
+e420276484.273818
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Copy build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png136"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.pnga2f04504e90cb941^3b1b4604e90cb941^---0#0#1#-19%DVTDocumentLocation2@137"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png0034d4c8ddffdf42^761"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/HelloWorld.app/Default-Landscape@2x~ipad.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Landscape@2x~ipad.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"1D36694C-269E-4D9F-A984-663A9ADE5088-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png
+s420276484.273943
+e420276484.274536
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Landscape~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/emulator/HelloWorld.app/Default-Landscape~ipad.png130"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png6f2a4604e90cb941^f5494604e90cb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Landscape~ipad.png0034d4c8ddffdf42^752"[1mCpResource[0m HelloWorld/Resources/splash/Default-Landscape~ipad.png build/emulator/HelloWorld.app/Default-Landscape~ipad.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Landscape~ipad.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"D84CDD7C-2F8B-473A-9785-E4C5BFEBB143-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+s420276484.274663
+e420276484.275333
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait@2x~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png134"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png9f594604e90cb941^ed7d4604e90cb941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png0034d4c8ddffdf42^758"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/HelloWorld.app/Default-Portrait@2x~ipad.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Portrait@2x~ipad.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"F954DE1E-FF69-4DF7-AC8C-3BE7D1B3505F-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png
+s420276484.276081
+e420276484.276643
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default-Portrait~ipad.png
+xbuild/emulator/HelloWorld.app/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/emulator/HelloWorld.app/Default-Portrait~ipad.png128"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png35b74604e90cb941^b7d34604e90cb941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/Default-Portrait~ipad.png0034d4c8ddffdf42^749"[1mCpResource[0m HelloWorld/Resources/splash/Default-Portrait~ipad.png build/emulator/HelloWorld.app/Default-Portrait~ipad.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/splash/Default-Portrait~ipad.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"0D0D56D1-85AA-45E6-911A-80743083286C-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png
+s420276484.277342
+e420276484.277908
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default@2x~iphone.png
+xbuild/emulator/HelloWorld.app/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/emulator/HelloWorld.app/Default@2x~iphone.png120"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.pngc8094704e90cb941^20284704e90cb941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/Default@2x~iphone.png0034d4c8ddffdf42^737"[1mCpResource[0m HelloWorld/Resources/splash/Default@2x~iphone.png build/emulator/HelloWorld.app/Default@2x~iphone.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/splash/Default@2x~iphone.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"201EA5AA-5001-4009-BA87-80FC16C2471F-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CCpResource HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png
+s420276484.278759
+e420276484.279298
+r1
+xCpResource
+xHelloWorld/Resources/splash/Default~iphone.png
+xbuild/emulator/HelloWorld.app/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy build/emulator/HelloWorld.app/Default~iphone.png114"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.pngf9664704e90cb941^30814704e90cb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app/Default~iphone.png0034d4c8ddffdf42^728"[1mCpResource[0m HelloWorld/Resources/splash/Default~iphone.png build/emulator/HelloWorld.app/Default~iphone.png    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Resources/splash/Default~iphone.png /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"8C31375B-8C1E-4125-B170-D3616CA2C3F5-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CGenerateDSYMFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+s420281005.705271
+e420281005.734417
+r1
+xGenerateDSYMFile
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generate /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM108"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld0b98b4adfa0cb941^5f0dbcadfa0cb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM/0000000000000000^712"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM36"2FFE004D-953C-498B-8210-7BE8B376A07D-
+b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+
+CLd /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
+s420279947.902168
+e420279948.855330
+r1
+xLd
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
+xnormal
+xi386
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/main.o
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/MainViewController.o
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVSplashScreen.o
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld63"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i386c502e78bf60cb941^16f8da8cf60cb941^---0#0#1#--1938"[1mLd[0m build/emulator/HelloWorld.app/HelloWorld normal i386    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -filelist /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -weak_framework AddressBook -weak_framework AddressBookUI -Xlinker -dependency_info -Xlinker /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/HelloWorld_dependency_info.dat -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld36"9E20E365-16A1-4E6E-85C9-A8C7FF1A3D17-
+b2758054E-3DC2-4DF3-8515-0E2AE55FFBB6
+
+CPhaseScriptExecution Copy\ www\ directory /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+s420281005.503496
+e420281005.701118
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.182s
+ouser	0m0.067s
+osys	0m0.104s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh072881adfa0cb941^417db3adfa0cb941^-42"real	0m0.182suser	0m0.067ssys	0m0.104s3(21%IDEActivityLogMessage2@14"real	0m0.182s-420281005#1#14#-0#-----2@14"user	0m0.067s-420281005#15#14#-0#-----2@13"sys	0m0.104s-420281005#29#13#-0#-----0#0#1#--408"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    /bin/sh -c \"/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh\"36"29C842D9-1754-48C2-A128-10B2C0CB7463-
+b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+
+CProcessInfoPlistFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist
+s420281005.500106
+e420281005.501717
+r1
+xProcessInfoPlistFile
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Process /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist110"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m371680adfa0cb941^da7080adfa0cb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^822"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist36"63979A5F-9165-497D-BD0F-8E8BE94477D9-
+b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+
+CProcessPCH /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276487.049229
+e420276487.239271
+r1
+xProcessPCH
+x/var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch
+xHelloWorld/HelloWorld-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile HelloWorld/HelloWorld-Prefix.pch310"[1mProcessPCH[0m /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercdb10c07e90cb941^1c423d07e90cb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/HelloWorld-Prefix.pch0000000000000000^4059"[1mProcessPCH[0m /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/HelloWorld-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/usr/local/lib/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/UninstalledProducts/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator --serialize-diagnostics /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.d -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/HelloWorld-Prefix.pch -o /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch36"A7F290A9-EBA5-4631-A5BB-89A652933DBA-
+b9F86E4E3-A806-433C-AC18-7C48CF73D373
+
+CTouch /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app
+s420281005.735261
+e420281005.738426
+r1
+xTouch
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app43"[1mTouch[0m build/emulator/HelloWorld.app6346bcadfa0cb941^cc0abdadfa0cb941^---0#0#1#--451"[1mTouch[0m build/emulator/HelloWorld.app    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"53BC9565-E30B-4A37-8622-B572C5A6CC7E-
+b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+

@@ -1,0 +1,1184 @@
+TCordovaLib
+v6
+r1
+cCheck dependencies
+cCpHeader Classes/NSDictionary+Extensions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+cCpHeader Classes/CDVInvokedUrlCommand.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+cCpHeader Classes/NSData+Base64.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+cCpHeader Classes/CDVPluginResult.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+cCpHeader Classes/CDVPlugin.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+cCpHeader Classes/CDVDebug.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+cCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+cCpHeader Classes/CDVWhitelist.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+cCpHeader Classes/CDVURLProtocol.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+cCpHeader Classes/CDVViewController.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+cCpHeader Classes/CDVCommandDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+cCpHeader Classes/CDV.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+cCpHeader Classes/CDVAvailability.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+cCpHeader Classes/CDVLocalStorage.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+cCpHeader Classes/UIDevice+Extensions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+cCpHeader Classes/NSArray+Comparisons.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+cCpHeader Classes/CDVCommandQueue.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+cCpHeader Classes/CDVCommandDelegateImpl.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+cCpHeader Classes/CDVShared.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+cCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+cCpHeader Classes/CDVConfigParser.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+cCpHeader Classes/CDVJSON.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+cCpHeader Classes/CDVWebViewDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+cCpHeader Classes/CDVUserAgentUtil.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+cCpHeader Classes/CDVTimer.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+cProcessPCH /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000535615F200000000000003B4
+t1398150642
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531149D9000000000000019E
+t1393641945
+s414
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDV.h
+c00000000535CB17F0000000000000516
+t1398583679
+s1302
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+c00000000535CB17F0000000000000CDD
+t1398583679
+s3293
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+c00000000535CB17F00000000000008BA
+t1398583679
+s2234
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+c00000000535CB17F00000000000004B5
+t1398583679
+s1205
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+c00000000535CB17F0000000000001491
+t1398583679
+s5265
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+c00000000535CB17F0000000000000503
+t1398583679
+s1283
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+c00000000535CB17F0000000000001EB7
+t1398583679
+s7863
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+c00000000535CB17F00000000000004CB
+t1398583679
+s1227
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+c00000000535CB17F0000000000000EB2
+t1398583679
+s3762
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+c00000000535CB17F0000000000000401
+t1398583679
+s1025
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+c00000000535CB17F00000000000007E6
+t1398583679
+s2022
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+c00000000535CB17F0000000000000DDE
+t1398583679
+s3550
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+c00000000535CB17F00000000000003DA
+t1398583679
+s986
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m
+c00000000535CB17F00000000000009A1
+t1398583679
+s2465
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+c00000000535CB17F00000000000006CF
+t1398583679
+s1743
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+c00000000535CB17F0000000000004C7E
+t1398583679
+s19582
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+c00000000535CB17F0000000000000892
+t1398583679
+s2194
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+c00000000535CB17F00000000000016AE
+t1398583679
+s5806
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+c00000000535CB17F0000000000000C13
+t1398583679
+s3091
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+c00000000535CB17F0000000000001B29
+t1398583679
+s6953
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+c00000000535CB17F0000000000000408
+t1398583679
+s1032
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.h
+c00000000535CB17F00000000000003E6
+t1398583679
+s998
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.m
+c00000000535CB17F00000000000006B6
+t1398583679
+s1718
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+c00000000535CB17F000000000000038D
+t1398583679
+s909
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m
+c00000000535CB17F0000000000000AA2
+t1398583679
+s2722
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+c00000000535CB17F000000000000041C
+t1398583679
+s1052
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+c00000000535CB17F000000000000259E
+t1398583679
+s9630
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+c00000000535CB17F0000000000000421
+t1398583679
+s1057
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+c00000000535CB17F000000000000133E
+t1398583679
+s4926
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+c00000000535CB17F0000000000000ACC
+t1398583679
+s2764
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m
+c00000000535CB17F0000000000008FB3
+t1398583679
+s36787
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+c00000000535CB17F00000000000005A2
+t1398583679
+s1442
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+c00000000535CB17F0000000000003764
+t1398583679
+s14180
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+c00000000535CB17F00000000000004B4
+t1398583679
+s1204
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+c00000000535CB17F0000000000002814
+t1398583679
+s10260
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+c00000000535CB17F0000000000000392
+t1398583679
+s914
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+c00000000535CB17F00000000000004D8
+t1398583679
+s1240
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+c00000000535CB17F000000000000037D
+t1398583679
+s893
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+c00000000535CB17F00000000000022CC
+t1398583679
+s8908
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+c00000000535CB17F00000000000005DA
+t1398583679
+s1498
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+c00000000535CB17F0000000000001059
+t1398583679
+s4185
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+c00000000535CB17F00000000000003A0
+t1398583679
+s928
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+c00000000535CB17F0000000000000584
+t1398583679
+s1412
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+c00000000535CB17F0000000000000476
+t1398583679
+s1142
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+c00000000535CB17F0000000000000620
+t1398583679
+s1568
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+c00000000535CB17F0000000000000346
+t1398583679
+s838
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+t1398583683
+s61416
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+t1398583683
+s61396
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+t1398583683
+s27504
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+t1398583682
+s18280
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+t1398583683
+s10608
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+t1398583683
+s106484
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+t1398583683
+s57152
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+t1398583683
+s36672
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+t1398583683
+s9080
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+t1398583683
+s22648
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+t1398583683
+s68928
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+t1398583683
+s50808
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+t1398583683
+s163048
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+t1398583683
+s67924
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+t1398583683
+s42460
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList
+c00000000535CB1820000000000000DF7
+t1398583682
+s3575
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+t1398583683
+s7252
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+t1398583683
+s10948
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+t1398583682
+s17368
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+t1398583683
+s6812
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+t1398583683
+s9236
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+t2
+s0
+
+N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/libCordova.a
+t2
+s0
+
+N/var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.pch
+t1398583682
+s3239416
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesb1a80c02e90cb941^7fdfcf02e90cb941^---0#1#1#--18"Check dependencies36"06685BDA-C99F-4102-B5B3-695C2F3BAD69-
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.435272
+e420276483.531745
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m232"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler99806f03e90cb941^39448803e90cb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m0000000000000000^4020"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o [1mClasses/CDVCommandDelegateImpl.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandDelegateImpl.o36"8946E888-D0EA-4CD1-8589-7781E46B681F-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.434011
+e420276483.571026
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c2d6f03e90cb941^e3559203e90cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m0000000000000000^3978"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o [1mClasses/CDVCommandQueue.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVCommandQueue.o36"7F7839D2-1898-4383-80F7-BE5933177A7A-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.436133
+e420276483.468112
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler89b66f03e90cb941^88d97703e90cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m0000000000000000^3978"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o [1mClasses/CDVConfigParser.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVConfigParser.o36"18699984-5805-466C-8B08-3CEAAFF806B2-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276482.862459
+e420276483.014419
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m228"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7adfdc02e90cb941^d1b10303e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m0000000000000000^4008"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o [1mClasses/CDVInvokedUrlCommand.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVInvokedUrlCommand.o36"EFCDF1DE-EEA9-4CC2-BA99-D60A29BAE1C0-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.469356
+e420276483.506212
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m202"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler04397803e90cb941^90a38103e90cb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m0000000000000000^3930"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o [1mClasses/CDVJSON.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVJSON.o36"D443FD02-1DDB-4BC4-873C-15B47BE69BBD-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.276840
+e420276483.435964
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler35f14603e90cb941^789b6f03e90cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m0000000000000000^3978"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o [1mClasses/CDVLocalStorage.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVLocalStorage.o36"14EA793C-9069-47F2-997B-A13A314078EE-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.006745
+e420276483.321802
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler35cf0103e90cb941^89625203e90cb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m0000000000000000^3942"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o [1mClasses/CDVPlugin.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPlugin.o36"CC6DB8AD-4CB7-46DB-8D76-430661B0706F-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276482.863370
+e420276483.266400
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m218"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1e1bdd02e90cb941^00364403e90cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m0000000000000000^3978"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o [1mClasses/CDVPluginResult.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVPluginResult.o36"1E52A02C-F0B7-4733-B6F9-1CD63C65D863-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.626429
+e420276483.734894
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.m206"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf46ea003e90cb941^9a22bc03e90cb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVShared.m0000000000000000^3942"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o [1mClasses/CDVShared.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVShared.o36"5CDE440E-DB05-4C61-ADCD-2F58CE08AB17-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.571286
+e420276483.675656
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m204"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc6509203e90cb941^7d5aad03e90cb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m0000000000000000^3936"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o [1mClasses/CDVTimer.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVTimer.o36"5C2E14D8-BDBA-41EE-9DB2-B5D67BAC3B62-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.074131
+e420276483.372800
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m216"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler410d1303e90cb941^d6ac5f03e90cb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m0000000000000000^3972"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o [1mClasses/CDVURLProtocol.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVURLProtocol.o36"F3452573-5F40-40E2-806F-E9B2F92843DA-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.506493
+e420276483.626208
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m220"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1bb8103e90cb941^a27da003e90cb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m0000000000000000^3984"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o [1mClasses/CDVUserAgentUtil.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVUserAgentUtil.o36"1717B860-950E-4E26-87D2-78C023ADDFB6-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.266749
+e420276483.988743
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDV.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m222"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfe644403e90cb941^821ffd03e90cb941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m0000000000000000^3990"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o [1mClasses/CDVViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVViewController.o36"838C613A-8BC7-45C5-A4A0-3A494918748E-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.531952
+e420276483.628282
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m224"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera33f8803e90cb941^11e4a003e90cb941^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m0000000000000000^3996"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o [1mClasses/CDVWebViewDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWebViewDelegate.o36"81565CBC-F134-4D7B-ABBF-C12093DEA187-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.020831
+e420276483.276604
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m212"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc66c0503e90cb941^7ee04603e90cb941^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m0000000000000000^3960"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o [1mClasses/CDVWhitelist.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/CDVWhitelist.o36"35A0365E-6531-4C71-9A07-08A404DF6B84-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.373039
+e420276483.433769
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerda905f03e90cb941^c51d6f03e90cb941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m0000000000000000^4002"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o [1mClasses/NSArray+Comparisons.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSArray+Comparisons.o36"6439E7E4-9FFB-4BBA-B2A5-12C5E5BCDAE4-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276482.862658
+e420276483.020601
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m214"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb3eddc02e90cb941^91460503e90cb941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m0000000000000000^3966"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o [1mClasses/NSData+Base64.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSData+Base64.o36"16580B99-C865-41F8-A1D2-94B10C5A097D-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276482.862235
+e420276483.006493
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m234"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2dd2dc02e90cb941^a8a90103e90cb941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m0000000000000000^4026"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o [1mClasses/NSDictionary+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSDictionary+Extensions.o36"88201A62-CC0C-495F-9C31-F654A04705CC-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.014692
+e420276483.073937
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m246"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7bdc0303e90cb941^31ee1203e90cb941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m0000000000000000^4062"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o [1mClasses/NSMutableArray+QueueAdditions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/NSMutableArray+QueueAdditions.o36"3051051A-039D-4277-A9C1-82708E43100D-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCompileC build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276483.323243
+e420276483.434649
+r1
+xCompileC
+xbuild/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m226"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbfd15203e90cb941^2a586f03e90cb941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m0000000000000000^4002"[1mCompileC[0m build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o [1mClasses/UIDevice+Extensions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG -include /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch -MMD -MT dependencies -MF /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.d --serialize-diagnostics /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.dia -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/UIDevice+Extensions.o36"6457DF2F-83C2-40E8-90C0-F332C1575910-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDV.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+s420276482.612235
+e420276482.613333
+r1
+xCpHeader
+xClasses/CDV.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDV.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDV.h144"[1mCpHeader[0m Classes/CDV.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDV.h[0m03cc9c02e90cb941^ab26d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDV.h0034d4c8ddffdf42^748"[1mCpHeader[0m Classes/CDV.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDV.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDV.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"F5817444-A6F1-4C3E-8D69-2A2884C2E763-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVAvailability.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+s420276482.612837
+e420276482.613822
+r1
+xCpHeader
+xClasses/CDVAvailability.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h168"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m6ff19c02e90cb941^992ad002e90cb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h0034d4c8ddffdf42^784"[1mCpHeader[0m Classes/CDVAvailability.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVAvailability.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"4639F877-1AB1-4786-BF89-3A15366071F8-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVCommandDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+s420276482.612073
+e420276482.613165
+r1
+xCpHeader
+xClasses/CDVCommandDelegate.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h174"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m94be9c02e90cb941^7922d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h0034d4c8ddffdf42^793"[1mCpHeader[0m Classes/CDVCommandDelegate.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"EB2ECF03-6F21-4F29-A416-FC1F3FCDAE2B-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVCommandDelegateImpl.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+s420276482.614304
+e420276482.615816
+r1
+xCpHeader
+xClasses/CDVCommandDelegateImpl.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h182"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m40519d02e90cb941^8941d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h0034d4c8ddffdf42^805"[1mCpHeader[0m Classes/CDVCommandDelegateImpl.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"B2EAFC7D-1BD4-44E3-9A24-C22C133AF8A5-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVCommandQueue.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+s420276482.614006
+e420276482.615719
+r1
+xCpHeader
+xClasses/CDVCommandQueue.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h168"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0me1439d02e90cb941^1840d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h0034d4c8ddffdf42^784"[1mCpHeader[0m Classes/CDVCommandQueue.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"FB374A54-85CF-4D7E-B57F-8ED1D240CFDC-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVConfigParser.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+s420276482.615922
+e420276482.616970
+r1
+xCpHeader
+xClasses/CDVConfigParser.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h168"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m55c09d02e90cb941^db51d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h0034d4c8ddffdf42^784"[1mCpHeader[0m Classes/CDVConfigParser.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVConfigParser.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVConfigParser.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"27201637-5E00-4A4C-BEAA-DC9085E7AB3C-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVDebug.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+s420276482.576305
+e420276482.577281
+r1
+xCpHeader
+xClasses/CDVDebug.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h154"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m96989302e90cb941^9109d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h0034d4c8ddffdf42^763"[1mCpHeader[0m Classes/CDVDebug.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVDebug.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVDebug.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"6B12EAC3-64CF-4790-99D9-4D4ACAEEB5BD-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVInvokedUrlCommand.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+s420276482.573467
+e420276482.575987
+r1
+xCpHeader
+xClasses/CDVInvokedUrlCommand.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h178"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m48dd9202e90cb941^02f4cf02e90cb941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h0034d4c8ddffdf42^799"[1mCpHeader[0m Classes/CDVInvokedUrlCommand.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"178AD56E-BC52-4CE5-A65F-1CEADE557521-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVJSON.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+s420276482.616118
+e420276482.617028
+r1
+xCpHeader
+xClasses/CDVJSON.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h152"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0mcec79d02e90cb941^0c56d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h0034d4c8ddffdf42^760"[1mCpHeader[0m Classes/CDVJSON.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVJSON.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVJSON.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"EC0E7898-A5B4-4E7A-84E2-270039D2C4A5-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVLocalStorage.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+s420276482.613312
+e420276482.614228
+r1
+xCpHeader
+xClasses/CDVLocalStorage.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h168"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0mbe159d02e90cb941^2b30d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h0034d4c8ddffdf42^784"[1mCpHeader[0m Classes/CDVLocalStorage.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"8CC981AD-5CC9-4A79-879E-AB5460B364DC-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVPlugin.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+s420276482.576256
+e420276482.577346
+r1
+xCpHeader
+xClasses/CDVPlugin.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h156"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0mc0929302e90cb941^350bd002e90cb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h0034d4c8ddffdf42^766"[1mCpHeader[0m Classes/CDVPlugin.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPlugin.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"AB2489AE-D1FC-4406-BAD4-146D5A879F95-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVPluginResult.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+s420276482.574372
+e420276482.575976
+r1
+xCpHeader
+xClasses/CDVPluginResult.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h168"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m27179302e90cb941^b2f2cf02e90cb941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h0034d4c8ddffdf42^784"[1mCpHeader[0m Classes/CDVPluginResult.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVPluginResult.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"C36F0F26-75D2-46BB-9DFB-F36969B2DDEF-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVScreenOrientationDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+s420276482.615658
+e420276482.616966
+r1
+xCpHeader
+xClasses/CDVScreenOrientationDelegate.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h194"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m70b29d02e90cb941^1e4ed002e90cb941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h0034d4c8ddffdf42^823"[1mCpHeader[0m Classes/CDVScreenOrientationDelegate.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"5B6BEE8D-3DC4-4133-9812-F3F3D26960CE-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVShared.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+s420276482.615595
+e420276482.616813
+r1
+xCpHeader
+xClasses/CDVShared.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h156"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m7aa89d02e90cb941^6649d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h0034d4c8ddffdf42^766"[1mCpHeader[0m Classes/CDVShared.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVShared.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVShared.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"4BE76884-871C-4A4D-9280-9B380E1D8C56-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVTimer.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+s420276482.617655
+e420276482.618501
+r1
+xCpHeader
+xClasses/CDVTimer.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h154"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0mf12f9e02e90cb941^f662d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h0034d4c8ddffdf42^763"[1mCpHeader[0m Classes/CDVTimer.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVTimer.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVTimer.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"6AC3B3F3-C3DE-4856-9D48-37F9BA4292CE-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVURLProtocol.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+s420276482.577428
+e420276482.612243
+r1
+xCpHeader
+xClasses/CDVURLProtocol.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h166"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0mb1db9302e90cb941^8717d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h0034d4c8ddffdf42^781"[1mCpHeader[0m Classes/CDVURLProtocol.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"CC55F8DC-B062-4E64-A210-C3FA8E2AA4C5-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVUserAgentUtil.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+s420276482.617224
+e420276482.618152
+r1
+xCpHeader
+xClasses/CDVUserAgentUtil.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h170"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m2c0f9e02e90cb941^d55ed002e90cb941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h0034d4c8ddffdf42^787"[1mCpHeader[0m Classes/CDVUserAgentUtil.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVUserAgentUtil.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"69553A47-7C4D-42BB-BCBC-0150BF7C601E-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVViewController.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+s420276482.611756
+e420276482.613065
+r1
+xCpHeader
+xClasses/CDVViewController.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h172"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m95ba9c02e90cb941^501cd002e90cb941^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h0034d4c8ddffdf42^790"[1mCpHeader[0m Classes/CDVViewController.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVViewController.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVViewController.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"909AF797-EA32-47F1-9F8F-DF03EAF8CC49-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVWebViewDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+s420276482.616962
+e420276482.617688
+r1
+xCpHeader
+xClasses/CDVWebViewDelegate.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h174"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m69019e02e90cb941^da59d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h0034d4c8ddffdf42^793"[1mCpHeader[0m Classes/CDVWebViewDelegate.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWebViewDelegate.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"40C8B5E1-4C3B-4858-958C-D4833DFD2B0A-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/CDVWhitelist.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+s420276482.577149
+e420276482.612082
+r1
+xCpHeader
+xClasses/CDVWhitelist.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h162"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m08cc9302e90cb941^8314d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h0034d4c8ddffdf42^775"[1mCpHeader[0m Classes/CDVWhitelist.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/CDVWhitelist.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"1513B305-F749-46BE-B6D5-7344F405982B-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/NSArray+Comparisons.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+s420276482.613593
+e420276482.615162
+r1
+xCpHeader
+xClasses/NSArray+Comparisons.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h176"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m641e9d02e90cb941^eb36d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h0034d4c8ddffdf42^796"[1mCpHeader[0m Classes/NSArray+Comparisons.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"A46D14C6-CE1F-442C-B75B-224477DE9618-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/NSData+Base64.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+s420276482.573554
+e420276482.575989
+r1
+xCpHeader
+xClasses/NSData+Base64.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h164"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m6de49202e90cb941^1ff5cf02e90cb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h0034d4c8ddffdf42^778"[1mCpHeader[0m Classes/NSData+Base64.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSData+Base64.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"1B44A2E1-CEFD-4909-880E-953F8D4CA976-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/NSDictionary+Extensions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+s420276482.573343
+e420276482.575982
+r1
+xCpHeader
+xClasses/NSDictionary+Extensions.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h184"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0mecde9202e90cb941^ddeccf02e90cb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h0034d4c8ddffdf42^808"[1mCpHeader[0m Classes/NSDictionary+Extensions.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"B39AE13B-B96F-453B-82A9-9C9F524CB537-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/NSMutableArray+QueueAdditions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+s420276482.576538
+e420276482.611387
+r1
+xCpHeader
+xClasses/NSMutableArray+QueueAdditions.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h196"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m3ca59302e90cb941^240fd002e90cb941^---0#0#1#-19%DVTDocumentLocation2@140"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h0034d4c8ddffdf42^826"[1mCpHeader[0m Classes/NSMutableArray+QueueAdditions.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"06A47C6A-4D55-4EB9-B496-777C48D59EC7-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CCpHeader Classes/UIDevice+Extensions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+s420276482.613516
+e420276482.615257
+r1
+xCpHeader
+xClasses/UIDevice+Extensions.h
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Copy /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h176"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m111e9d02e90cb941^0535d002e90cb941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h0034d4c8ddffdf42^796"[1mCpHeader[0m Classes/UIDevice+Extensions.h [1m/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include/Cordova36"772714D4-F2CE-4D4A-9AA6-A2FF2E0DEF6F-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CLibtool /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a normal i386
+s420276483.990267
+e420276484.026539
+r1
+xLibtool
+x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/libCordova.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"[1mLibtool[0m /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a normal i386124"[1mLibtool[0m /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a normal i386dd95fd03e90cb941^b7cf0604e90cb941^---0#0#1#--1094"[1mLibtool[0m /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a normal i386    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -filelist /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Objects-normal/i386/Cordova.LinkFileList -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/libCordova.a36"7AA8FC09-B101-4ED7-B2E2-EFC15DEC6B18-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
+CProcessPCH /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420276482.619134
+e420276482.861663
+r1
+xProcessPCH
+x/var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.pch
+xCordovaLib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Precompile CordovaLib_Prefix.pch299"[1mProcessPCH[0m /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler29979e02e90cb941^cc96dc02e90cb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch0000000000000000^3895"[1mProcessPCH[0m /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.pch CordovaLib_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/CordovaLib"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=100 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-generated-files.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-own-target-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-all-target-headers.hmap -iquote /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/Cordova-project-headers.hmap -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources/i386 -I/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/build/CordovaLib.build/Debug-iphonesimulator/CordovaLib.build/DerivedSources -F/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator -DDEBUG --serialize-diagnostics /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.d -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/CordovaLib/CordovaLib_Prefix.pch -o /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/CordovaLib_Prefix-fzvctyzvhzmrvkeofmaqvjbnnyom/CordovaLib_Prefix.pch.pch36"0652CEDE-9208-4534-B582-6A0C5C80EF16-
+b1A1EEC46-3744-4FC3-B338-738AB5E169C5
+
