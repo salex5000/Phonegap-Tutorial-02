@@ -280,8 +280,8 @@ t1398583679
 s5977
 
 N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist
-c00000000535CC32C0000000000000A13
-t1398588204
+c00000000535D94620000000000000A13
+t1398641762
 s2579
 
 N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Prefix.pch
@@ -474,11 +474,11 @@ t1398583684
 s45
 
 N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app
-t1398588205
+t1398641767
 s1020
 
 N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM
-t1398588170
+t1398588205
 s102
 
 N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Default-568h@2x~iphone.png
@@ -514,7 +514,7 @@ t1398587148
 s426424
 
 N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist
-t1398588205
+t1398641766
 s1287
 
 N/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/MainViewController.nib
@@ -795,7 +795,7 @@ s5374296
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies02ba7fadfa0cb941^59e07fadfa0cb941^---0#1#1#--18"Check dependencies36"19F07A02-6085-4F84-A738-EF762E8B5DCB-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies16f64ce6cb0db941^8aae57e6cb0db941^---0#1#1#--18"Check dependencies36"2D7C6C1A-30C9-47CF-8518-79BCBA51D9ED-
 
 CCompileC build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/AppDelegate.o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420276487.240069
@@ -1175,14 +1175,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy bu
 b9F86E4E3-A806-433C-AC18-7C48CF73D373
 
 CGenerateDSYMFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
-s420281005.705271
-e420281005.734417
+s420334567.894534
+e420334567.966293
 r1
 xGenerateDSYMFile
 x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM
 x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generate /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM108"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld0b98b4adfa0cb941^5f0dbcadfa0cb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM/0000000000000000^712"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM36"2FFE004D-953C-498B-8210-7BE8B376A07D-
-b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Generate /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM108"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorldcb0ee5e7cb0db941^0261f7e7cb0db941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM/0000000000000000^712"[1mGenerateDSYMFile[0m [1mbuild/emulator/HelloWorld.app.dSYM[0m build/emulator/HelloWorld.app/HelloWorld    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM36"0F6F93BB-5B74-4FF2-8A8F-2A2DC9178738-
+b80528CAC-CF46-4FD4-9EDC-2D9292DABF92
 
 CLd /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld normal i386
 s420279947.902168
@@ -1270,28 +1270,28 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Link /
 b2758054E-3DC2-4DF3-8515-0E2AE55FFBB6
 
 CPhaseScriptExecution Copy\ www\ directory /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
-s420281005.503496
-e420281005.701118
+s420334566.661448
+e420334567.111426
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m0.182s
-ouser	0m0.067s
-osys	0m0.104s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh072881adfa0cb941^417db3adfa0cb941^-42"real	0m0.182suser	0m0.067ssys	0m0.104s3(21%IDEActivityLogMessage2@14"real	0m0.182s-420281005#1#14#-0#-----2@14"user	0m0.067s-420281005#15#14#-0#-----2@13"sys	0m0.104s-420281005#29#13#-0#-----0#0#1#--408"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    /bin/sh -c \"/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh\"36"29C842D9-1754-48C2-A128-10B2C0CB7463-
-b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+oreal	0m0.395s
+ouser	0m0.063s
+osys	0m0.096s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'146"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.shd49ba9e6cb0db941^ad8a1ce7cb0db941^-42"real	0m0.395suser	0m0.063ssys	0m0.096s3(21%IDEActivityLogMessage2@14"real	0m0.395s-420334567#1#14#-0#-----2@14"user	0m0.063s-420334567#15#14#-0#-----2@13"sys	0m0.096s-420334567#29#13#-0#-----0#0#1#--408"[1mPhaseScriptExecution[0m Copy\ www\ directory build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    /bin/sh -c \"/Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Script-304B58A110DAC018002A0835.sh\"36"5A78178C-7D1C-4273-A44C-498D2DC8F2A7-
+b80528CAC-CF46-4FD4-9EDC-2D9292DABF92
 
 CProcessInfoPlistFile /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist
-s420281005.500106
-e420281005.501717
+s420334566.573157
+e420334566.660474
 r1
 xProcessInfoPlistFile
 x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist
 x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Process /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist110"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m371680adfa0cb941^da7080adfa0cb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^822"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist36"63979A5F-9165-497D-BD0F-8E8BE94477D9-
-b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Process /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist110"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m28d192e6cb0db941^f015a9e6cb0db941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/Salex/Software/IAA/Phonegap%20Tutorial%2002/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist0000000000000000^822"[1mProcessInfoPlistFile[0m build/emulator/HelloWorld.app/Info.plist [1mHelloWorld/HelloWorld-Info.plist[0m    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/HelloWorld/HelloWorld-Info.plist -genpkginfo /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist36"387A3A1B-6C5A-4C3D-8A4A-8DF8C1F7C622-
+b80528CAC-CF46-4FD4-9EDC-2D9292DABF92
 
 CProcessPCH /var/folders/r9/37hrr9_j445_0r4__hkxzg900000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/HelloWorld-Prefix-chbdvxqovsnbcbdvvkoazflxbqnv/HelloWorld-Prefix.pch.pch HelloWorld/HelloWorld-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420276487.049229
@@ -1309,11 +1309,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precomp
 b9F86E4E3-A806-433C-AC18-7C48CF73D373
 
 CTouch /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app
-s420281005.735261
-e420281005.738426
+s420334567.966892
+e420334568.014154
 r1
 xTouch
 x/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app43"[1mTouch[0m build/emulator/HelloWorld.app6346bcadfa0cb941^cc0abdadfa0cb941^---0#0#1#--451"[1mTouch[0m build/emulator/HelloWorld.app    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"53BC9565-E30B-4A37-8622-B572C5A6CC7E-
-b73253D3D-A1B5-4B8A-B7E9-8254167DCD1D
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app43"[1mTouch[0m build/emulator/HelloWorld.app1d91f7e7cb0db941^73a003e8cb0db941^---0#0#1#--451"[1mTouch[0m build/emulator/HelloWorld.app    cd "/Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /usr/bin/touch -c /Users/Salex/Software/IAA/Phonegap\ Tutorial\ 02/hello/platforms/ios/build/emulator/HelloWorld.app36"BB026AA3-D748-4774-93AB-3964734DB070-
+b80528CAC-CF46-4FD4-9EDC-2D9292DABF92
 

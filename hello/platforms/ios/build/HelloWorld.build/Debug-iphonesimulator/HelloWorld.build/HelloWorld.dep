@@ -1,5 +1,5 @@
 2b64f3f73701ecd96e26708081fdb366 aecf29e2346144ac35cfa85e2f94a513 ffffffffffffffffffffffffffffffff 1020 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app
-00000000535cc32c0000000000000a13 909b34738e7dcca21ac8a101e17db7b5 ffffffffffffffffffffffffffffffff 0 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/PkgInfo
+00000000535d94620000000000000a13 909b34738e7dcca21ac8a101e17db7b5 ffffffffffffffffffffffffffffffff 0 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/PkgInfo
 00000000535cb17f0000000000002dba 42a8c3abb48f7abd386b7f3bf38da557 ffffffffffffffffffffffffffffffff 11706 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-72@2x.png
 00000000535cb17f0000000000003b9e 9f5f3617d310d4c3c2555f58b4aeb3cc ffffffffffffffffffffffffffffffff 15262 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-76@2x.png
 00000000535cb17f000000000000258b 4fba715b61a9168dea054084609d9701 ffffffffffffffffffffffffffffffff 9611 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-50@2x.png
@@ -24,8 +24,8 @@
 00000000535cb17f0000000000001350 823b741965253022ac4adce121e25104 ffffffffffffffffffffffffffffffff 4944 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-72.png
 00000000535cb17f0000000000001cf3 2475d3caf668290d0ca88ed2f9440b01 ffffffffffffffffffffffffffffffff 7411 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-40@2x.png
 00000000535cb17f0000000000001b71 73bff77959268acdf5d5a898fc107309 ffffffffffffffffffffffffffffffff 7025 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/icon-76.png
-4af4394b901bcc5c9bc9f2ab8286854d e0a0707e7deae6856702437c7de77768 ffffffffffffffffffffffffffffffff 102 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM
-00000000535cc32c0000000000000a13 909b34738e7dcca21ac8a101e17db7b5 ffffffffffffffffffffffffffffffff 1287 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist
+4af4394b901a9b129bc9f2ab8286854d e0a0707e7deae6856702437c7de77768 ffffffffffffffffffffffffffffffff 102 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app.dSYM
+00000000535d94620000000000000a13 909b34738e7dcca21ac8a101e17db7b5 ffffffffffffffffffffffffffffffff 1287 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/Info.plist
 37b626ca4c7ef7509cd131a96cfdda08 da6f0d381e259f2a810153aa6293be5f ffffffffffffffffffffffffffffffff 426424 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/emulator/HelloWorld.app/HelloWorld
 ba41cfa2452389896cf303ac9c21722c d461c5ea7ec20506dcc9eb1a0aafb27d ffffffffffffffffffffffffffffffff 141756 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContact.o
 ba41cfa2452389896cf303ac9c202f64 e3d7e32061a3aeae4018dab367723119 ffffffffffffffffffffffffffffffff 122804 /Users/Salex/Software/IAA/Phonegap Tutorial 02/hello/platforms/ios/build/HelloWorld.build/Debug-iphonesimulator/HelloWorld.build/Objects-normal/i386/CDVContacts.o
